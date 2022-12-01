@@ -1,7 +1,6 @@
 {
-	"dependencies": {
-		"dom-parser": "^0.1.6",
-		"jsdom": "^20.0.3",
-		"node-fetch": "^3.3.0"
-	}
+  "dependencies": {
+    "jsdom": "^20.0.3",
+    "node-fetch": "^3.3.0"
+  }
 }
