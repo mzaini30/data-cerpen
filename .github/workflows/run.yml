@@ -2,7 +2,9 @@ name: run
 on:
   schedule:
     - cron: 0 0/4 * * *
-  - push
+  push:
+    branches:
+      - master
 jobs:
   scheduled:
     runs-on: ubuntu-latest
