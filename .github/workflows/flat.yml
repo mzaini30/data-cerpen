@@ -6,14 +6,15 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      - ./olah.js
+      - ./olah.ts
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v3
+      - name: Setup deno
+        uses: denoland/setup-deno@main
         with:
-          node-version: 16
+          deno-version: v1.10.x
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Fetch data
@@ -21,4 +22,4 @@ jobs:
         with:
           http_url: http://cerpenmu.com/100-cerpen-kiriman-terbaru
           downloaded_filename: cerpen.html
-          postprocess: ./olah.js
+          postprocess: ./olah.ts

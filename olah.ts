@@ -1,13 +1,15 @@
-import { readFileSync, writeFileSync } from "fs";
-import dom_parser from "dom-parser";
+// import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
+import { DOMParser } from "https://esm.sh/linkedom";
 
-const { DOMParser } = dom_parser;
-
-const filenya = process.argv[0];
-const data = readFileSync(filenya);
+const filenya = Deno.args[0];
+const data = Deno.readTextFileSync(filenya);
 const dokumen = new DOMParser().parseFromString(data, "text/html");
 
-const terisi = [];
+type Terisi = {
+  judul: string,
+  link: string,
+};
+const terisi: Array<Terisi> = [];
 dokumen?.querySelectorAll("#content > article > strong > a").forEach((x) => {
   terisi.push({
     judul: x.innerHTML,
@@ -16,7 +18,7 @@ dokumen?.querySelectorAll("#content > article > strong > a").forEach((x) => {
 });
 // console.log(terisi.length);
 
-let terisi_author = [];
+let terisi_author: Terisi[] = [];
 dokumen?.querySelectorAll("#content > article > a[rel='tag']").forEach((x) => {
   terisi_author.push({
     judul: x.innerHTML,
@@ -43,4 +45,4 @@ for (const n in terisi) {
 // console.log(baru);
 
 baru.sort((a, b) => (a.judul > b.judul ? 1 : -1));
-writeFileSync("data.json", JSON.stringify(baru, null, 2));
+Deno.writeTextFileSync("data.json", JSON.stringify(baru, null, 2));
