@@ -4,6 +4,10 @@ const filenya = Deno.args[0];
 const data = Deno.readTextFileSync(filenya);
 const dokumen = new DOMParser().parseFromString(data, "text/html");
 
-const judul = dokumen
-  .querySelectorAll("#content > article > strong > a")
-  .forEach((x) => console.log(x.innerHTML));
+const terisi = [];
+dokumen?.querySelectorAll("#content > article > strong > a").forEach((x) => {
+  terisi.push({
+    judul: x.innerHTML,
+    link: x.getAttribute("href"),
+  });
+});
