@@ -20,6 +20,6 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: http://cerpenmu.com/100-cerpen-kiriman-terbaru?
+          http_url: http://cerpenmu.com/100-cerpen-kiriman-terbaru
           downloaded_filename: cerpen.html
           postprocess: ./olah.ts
