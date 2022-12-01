@@ -1,4 +1,5 @@
-import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
+// import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
+import { DOMParser } from "npm:linkedom";
 
 const filenya = Deno.args[0];
 const data = Deno.readTextFileSync(filenya);
