@@ -1,12 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  dom-parser: ^0.1.6
   jsdom: ^20.0.3
   node-fetch: ^3.3.0
 
 dependencies:
-  dom-parser: 0.1.6
   jsdom: 20.0.3
   node-fetch: 3.3.0
 
@@ -111,10 +109,6 @@ packages:
   /delayed-stream/1.0.0:
     resolution: {integrity: sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ==}
     engines: {node: '>=0.4.0'}
-    dev: false
-
-  /dom-parser/0.1.6:
-    resolution: {integrity: sha512-3nVRKbLEwmGfghLoeT1dxlK/0votalnOfasP+8VCHYDfDuCETY4LeMblfOeqww6XZk2ymZ1Uewy/hVad6Dy3yw==}
     dev: false
 
   /domexception/4.0.0:
