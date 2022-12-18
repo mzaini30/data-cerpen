@@ -12,12 +12,6 @@
     "link_author": "http://cerpenmu.com/penulis/diaz-tavarel-s"
   },
   {
-    "judul": "Antara Kau dan Dia",
-    "link": "http://cerpenmu.com/cerpen-cinta/antara-kau-dan-dia-2.html",
-    "author": "Khoirunnisa",
-    "link_author": "http://cerpenmu.com/penulis/khoirunnisa"
-  },
-  {
     "judul": "Apakah ini yang Dinamakan Cinta",
     "link": "http://cerpenmu.com/cerpen-cinta/apakah-ini-yang-dinamakan-cinta.html",
     "author": "Reyhan Ardiansyah Efendi",
@@ -58,12 +52,6 @@
     "link": "http://cerpenmu.com/cerpen-keluarga/bercandanya-keterlaluan.html",
     "author": "Febriana Putri Ameliya",
     "link_author": "http://cerpenmu.com/penulis/febriana-putri-ameliya"
-  },
-  {
-    "judul": "Berharap",
-    "link": "http://cerpenmu.com/cerpen-patah-hati/berharap-4.html",
-    "author": "Nurika Sri Dewi Nawangsih",
-    "link_author": "http://cerpenmu.com/penulis/nurika-sri-dewi-nawangsih"
   },
   {
     "judul": "Berlian Itu Mahal",
@@ -108,12 +96,6 @@
     "link_author": "http://cerpenmu.com/penulis/denisa-adelyanti"
   },
   {
-    "judul": "Diatas Langit Masih Ada Langit",
-    "link": "http://cerpenmu.com/cerpen-nasihat/diatas-langit-masih-ada-langit.html",
-    "author": "Satrio Bagus P",
-    "link_author": "http://cerpenmu.com/penulis/satrio-bagus-p"
-  },
-  {
     "judul": "Dibalik Kata Sempurna",
     "link": "http://cerpenmu.com/cerpen-keluarga/dibalik-kata-sempurna.html",
     "author": "Mahira",
@@ -132,12 +114,6 @@
     "link_author": "http://cerpenmu.com/penulis/salma-nur-hanifah"
   },
   {
-    "judul": "Dongeng Sebelum Tidur",
-    "link": "http://cerpenmu.com/cerpen-patah-hati/dongeng-sebelum-tidur.html",
-    "author": "Gian Rizkianto",
-    "link_author": "http://cerpenmu.com/penulis/gian-rizkianto"
-  },
-  {
     "judul": "Dua Pilihan",
     "link": "http://cerpenmu.com/cerpen-persahabatan/dua-pilihan.html",
     "author": "Fendina Nur",
@@ -148,12 +124,6 @@
     "link": "http://cerpenmu.com/cerpen-persahabatan/ella-2.html",
     "author": "Aeyesha Shafina Ninggara",
     "link_author": "http://cerpenmu.com/penulis/aeyesha-shafina-ninggara"
-  },
-  {
-    "judul": "Epipahny",
-    "link": "http://cerpenmu.com/cerpen-motivasi/epipahny.html",
-    "author": "Sri Nirmala Sari",
-    "link_author": "http://cerpenmu.com/penulis/sri-nirmala-sari"
   },
   {
     "judul": "Es Teh Gratis",
@@ -246,6 +216,12 @@
     "link_author": "http://cerpenmu.com/penulis/era-elfriana-sitanggang"
   },
   {
+    "judul": "Inilah Aku",
+    "link": "http://cerpenmu.com/cerpen-cinta/inilah-aku-4.html",
+    "author": "Maria Yolanda Dewi Widyasari",
+    "link_author": "http://cerpenmu.com/penulis/maria-yolanda-dewi-widyasari"
+  },
+  {
     "judul": "Janji Senja",
     "link": "http://cerpenmu.com/cerpen-cinta/janji-senja.html",
     "author": "Katty Quenee Haullussy",
@@ -282,12 +258,6 @@
     "link_author": "http://cerpenmu.com/penulis/cheyla-ayu-mauliya"
   },
   {
-    "judul": "Kembalinya Tawa Rania",
-    "link": "http://cerpenmu.com/cerpen-anak/kembalinya-tawa-rania.html",
-    "author": "Wiwin Ernawati",
-    "link_author": "http://cerpenmu.com/penulis/wiwin-ernawati"
-  },
-  {
     "judul": "Kenangan 10 Tahun",
     "link": "http://cerpenmu.com/cerpen-persahabatan/kenangan-10-tahun.html",
     "author": "Khairusshifa Al-Khuraini",
@@ -298,6 +268,12 @@
     "link": "http://cerpenmu.com/cerpen-remaja/ket-haus.html",
     "author": "Pardes",
     "link_author": "http://cerpenmu.com/penulis/pardes"
+  },
+  {
+    "judul": "Kukira Kau Obat Ternyata Kau Luka Terdalam",
+    "link": "http://cerpenmu.com/cerpen-cinta-dalam-hati-terpendam/kukira-kau-obat-ternyata-kau-luka-terdalam.html",
+    "author": "Mahsya Nabila Fitri",
+    "link_author": "http://cerpenmu.com/penulis/mahsya-nabila-fitri"
   },
   {
     "judul": "Lian dan Dampak Kebosanannya",
@@ -366,10 +342,22 @@
     "link_author": "http://cerpenmu.com/penulis/nasya"
   },
   {
+    "judul": "Not Twelve Anymore",
+    "link": "http://cerpenmu.com/cerpen-remaja/not-twelve-anymore.html",
+    "author": "Illona Zaneta S",
+    "link_author": "http://cerpenmu.com/penulis/illona-zaneta-s"
+  },
+  {
     "judul": "Ombak Cinta",
     "link": "http://cerpenmu.com/cerpen-cinta/ombak-cinta.html",
     "author": "Maria Surya Widyaningrum",
     "link_author": "http://cerpenmu.com/penulis/maria-surya-widyaningrum"
+  },
+  {
+    "judul": "Pabrik Bekas",
+    "link": "http://cerpenmu.com/cerpen-horor-hantu/pabrik-bekas.html",
+    "author": "Vinzza A.",
+    "link_author": "http://cerpenmu.com/penulis/vinzza-a"
   },
   {
     "judul": "Panggil Saja Rara",
@@ -394,12 +382,6 @@
     "link": "http://cerpenmu.com/cerpen-cinta-sedih/people-come-and-go-2.html",
     "author": "Ratih Dwi Rahayu",
     "link_author": "http://cerpenmu.com/penulis/ratih-dwi-rahayu"
-  },
-  {
-    "judul": "Perasaan Yang Terbuang",
-    "link": "http://cerpenmu.com/cerpen-patah-hati/perasaan-yang-terbuang.html",
-    "author": "Avika Dwi Ardianti",
-    "link_author": "http://cerpenmu.com/penulis/avika-dwi-ardianti"
   },
   {
     "judul": "Pernikahan Bahagia (Part 1)",
@@ -510,6 +492,18 @@
     "link_author": "http://cerpenmu.com/penulis/reghina-salsa"
   },
   {
+    "judul": "Semua Ada Tempatnya (Part 1)",
+    "link": "http://cerpenmu.com/cerpen-keluarga/semua-ada-tempatnya-part-1.html",
+    "author": "Mona Trisyah",
+    "link_author": "http://cerpenmu.com/penulis/mona-trisyah"
+  },
+  {
+    "judul": "Semua Ada Tempatnya (Part 2)",
+    "link": "http://cerpenmu.com/cerpen-keluarga/semua-ada-tempatnya-part-2.html",
+    "author": "Mona Trisyah",
+    "link_author": "http://cerpenmu.com/penulis/mona-trisyah"
+  },
+  {
     "judul": "Si Wibu Intovert",
     "link": "http://cerpenmu.com/cerpen-remaja/si-wibu-intovert.html",
     "author": "Raditya Rizqullah Putra",
@@ -528,6 +522,12 @@
     "link_author": "http://cerpenmu.com/penulis/eugene"
   },
   {
+    "judul": "Surat dari Ayah",
+    "link": "http://cerpenmu.com/cerpen-keluarga/surat-dari-ayah.html",
+    "author": "Mona Trisyah",
+    "link_author": "http://cerpenmu.com/penulis/mona-trisyah"
+  },
+  {
     "judul": "Teman Yang Baik",
     "link": "http://cerpenmu.com/cerpen-persahabatan/teman-yang-baik.html",
     "author": "Valentino Rossy",
@@ -538,12 +538,6 @@
     "link": "http://cerpenmu.com/cerpen-keluarga/terima-kasih-ibu-5.html",
     "author": "Andini Ayu Ningsih",
     "link_author": "http://cerpenmu.com/penulis/andini-ayu-ningsih"
-  },
-  {
-    "judul": "Terima Kasih, Maaf",
-    "link": "http://cerpenmu.com/cerpen-galau/terima-kasih-maaf.html",
-    "author": "Nadwad",
-    "link_author": "http://cerpenmu.com/penulis/nadwad"
   },
   {
     "judul": "Terjebak di Zona Teman",
@@ -580,6 +574,12 @@
     "link": "http://cerpenmu.com/cerpen-cinta/untuk-jogja-yang-tak-sempat-kusapa.html",
     "author": "Kellaa",
     "link_author": "http://cerpenmu.com/penulis/kellaa"
+  },
+  {
+    "judul": "Wanita Bermata Sendu",
+    "link": "http://cerpenmu.com/cerpen-kehidupan/wanita-bermata-sendu.html",
+    "author": "Ahmed Adrianov",
+    "link_author": "http://cerpenmu.com/penulis/ahmed-adrianov"
   },
   {
     "judul": "Whitory",
