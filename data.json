@@ -12,34 +12,28 @@
     "link_author": "http://cerpenmu.com/penulis/diaz-tavarel-s"
   },
   {
+    "judul": "Antagonis H2",
+    "link": "http://cerpenmu.com/cerpen-cinta-romantis/antagonis-h2.html",
+    "author": "Acha Hallatu",
+    "link_author": "http://cerpenmu.com/penulis/acha-hallatu"
+  },
+  {
     "judul": "Apakah ini yang Dinamakan Cinta",
     "link": "http://cerpenmu.com/cerpen-cinta/apakah-ini-yang-dinamakan-cinta.html",
     "author": "Reyhan Ardiansyah Efendi",
     "link_author": "http://cerpenmu.com/penulis/reyhan-ardiansyah-efendi"
   },
   {
-    "judul": "Asmara Hancur",
-    "link": "http://cerpenmu.com/cerpen-cinta/asmara-hancur.html",
-    "author": "Terry Widya Ester",
-    "link_author": "http://cerpenmu.com/penulis/terry-widya-ester"
-  },
-  {
-    "judul": "Batu",
-    "link": "http://cerpenmu.com/cerpen-horor-hantu/batu.html",
-    "author": "Tya",
-    "link_author": "http://cerpenmu.com/penulis/tya"
+    "judul": "Bakwan Terakhir",
+    "link": "http://cerpenmu.com/cerpen-keluarga/bakwan-terakhir.html",
+    "author": "Acha Hallatu",
+    "link_author": "http://cerpenmu.com/penulis/acha-hallatu"
   },
   {
     "judul": "Beda Tapi Satu",
     "link": "http://cerpenmu.com/cerpen-cinta/beda-tapi-satu-2.html",
     "author": "Natali Fitriyah Priyanti",
     "link_author": "http://cerpenmu.com/penulis/natali-fitriyah-priyanti"
-  },
-  {
-    "judul": "Belajar Dari Kesalahan (Part 1)",
-    "link": "http://cerpenmu.com/cerpen-keluarga/belajar-dari-kesalahan-part-1.html",
-    "author": "Michelle Joy",
-    "link_author": "http://cerpenmu.com/penulis/michelle-joy"
   },
   {
     "judul": "Belajar Dari Kesalahan (Part 2)",
@@ -124,6 +118,12 @@
     "link": "http://cerpenmu.com/cerpen-persahabatan/ella-2.html",
     "author": "Aeyesha Shafina Ninggara",
     "link_author": "http://cerpenmu.com/penulis/aeyesha-shafina-ninggara"
+  },
+  {
+    "judul": "Emergency Room",
+    "link": "http://cerpenmu.com/cerpen-kehidupan/emergency-room.html",
+    "author": "Acha Hallatu",
+    "link_author": "http://cerpenmu.com/penulis/acha-hallatu"
   },
   {
     "judul": "Es Teh Gratis",
@@ -318,16 +318,16 @@
     "link_author": "http://cerpenmu.com/penulis/alfarizky-rasya-hallabi"
   },
   {
-    "judul": "Mental Health",
-    "link": "http://cerpenmu.com/cerpen-remaja/mental-health.html",
-    "author": "Nikyta Keyla Ardina Rasti",
-    "link_author": "http://cerpenmu.com/penulis/nikyta-keyla-ardina-rasti"
+    "judul": "Mendung di Wajah Pengagum (Part 1)",
+    "link": "http://cerpenmu.com/cerpen-patah-hati/mendung-di-wajah-pengagum-part-1.html",
+    "author": "Sri Wahyuningsih",
+    "link_author": "http://cerpenmu.com/penulis/sri-wahyuningsih"
   },
   {
-    "judul": "Mi Amore",
-    "link": "http://cerpenmu.com/cerpen-cinta-sedih/mi-amore.html",
-    "author": "Zazkya Risma Salsabilla",
-    "link_author": "http://cerpenmu.com/penulis/zazkya-risma-salsabilla"
+    "judul": "Mendung di Wajah Pengagum (Part 2)",
+    "link": "http://cerpenmu.com/cerpen-patah-hati/mendung-di-wajah-pengagum-part-2.html",
+    "author": "Sri Wahyuningsih",
+    "link_author": "http://cerpenmu.com/penulis/sri-wahyuningsih"
   },
   {
     "judul": "Mimpi (Part 1)",
@@ -340,6 +340,18 @@
     "link": "http://cerpenmu.com/cerpen-fantasi-fiksi/mimpi-part-2.html",
     "author": "Nasya",
     "link_author": "http://cerpenmu.com/penulis/nasya"
+  },
+  {
+    "judul": "Mimpi Aneh (Part 1)",
+    "link": "http://cerpenmu.com/cerpen-cinta/mimpi-aneh-part-1.html",
+    "author": "Bernat",
+    "link_author": "http://cerpenmu.com/penulis/bernat"
+  },
+  {
+    "judul": "Mimpi Aneh (Part 2)",
+    "link": "http://cerpenmu.com/cerpen-cinta/mimpi-aneh-part-2.html",
+    "author": "Bernat",
+    "link_author": "http://cerpenmu.com/penulis/bernat"
   },
   {
     "judul": "Not Twelve Anymore",
@@ -382,12 +394,6 @@
     "link": "http://cerpenmu.com/cerpen-cinta-sedih/people-come-and-go-2.html",
     "author": "Ratih Dwi Rahayu",
     "link_author": "http://cerpenmu.com/penulis/ratih-dwi-rahayu"
-  },
-  {
-    "judul": "Pernikahan Bahagia (Part 1)",
-    "link": "http://cerpenmu.com/cerpen-kristen/pernikahan-bahagia-part-1.html",
-    "author": "Era Elfriana Sitanggang",
-    "link_author": "http://cerpenmu.com/penulis/era-elfriana-sitanggang"
   },
   {
     "judul": "Perpisahan",
@@ -462,16 +468,16 @@
     "link_author": "http://cerpenmu.com/penulis/jeovan-arlyne-andikatama"
   },
   {
-    "judul": "Sahabat Jadi Cinta",
-    "link": "http://cerpenmu.com/cerpen-cinta/sahabat-jadi-cinta-17.html",
-    "author": "Bayu Zakaria",
-    "link_author": "http://cerpenmu.com/penulis/bayu-zakaria"
-  },
-  {
     "judul": "Sahabat Sholat Dhuha",
     "link": "http://cerpenmu.com/cerpen-islami-religi/sahabat-sholat-dhuha.html",
     "author": "Diaz Tavarel S",
     "link_author": "http://cerpenmu.com/penulis/diaz-tavarel-s"
+  },
+  {
+    "judul": "Sebelum Terlambat",
+    "link": "http://cerpenmu.com/cerpen-penyesalan/sebelum-terlambat.html",
+    "author": "Nararya Lamria",
+    "link_author": "http://cerpenmu.com/penulis/nararya-lamria"
   },
   {
     "judul": "Sekolah Menengah (Part 1)",
@@ -510,6 +516,12 @@
     "link_author": "http://cerpenmu.com/penulis/raditya-rizqullah-putra"
   },
   {
+    "judul": "Strict Parents",
+    "link": "http://cerpenmu.com/cerpen-keluarga/strict-parents.html",
+    "author": "Yayang Avril Fransiska",
+    "link_author": "http://cerpenmu.com/penulis/yayang-avril-fransiska"
+  },
+  {
     "judul": "Sunyi (Part 1)",
     "link": "http://cerpenmu.com/cerpen-keluarga/sunyi-part-1.html",
     "author": "Eugene",
@@ -540,12 +552,6 @@
     "link_author": "http://cerpenmu.com/penulis/andini-ayu-ningsih"
   },
   {
-    "judul": "Terjebak di Zona Teman",
-    "link": "http://cerpenmu.com/cerpen-cinta/terjebak-di-zona-teman.html",
-    "author": "Saskiyah Ramadhani",
-    "link_author": "http://cerpenmu.com/penulis/saskiyah-ramadhani"
-  },
-  {
     "judul": "Terulang Kembali (Part 1)",
     "link": "http://cerpenmu.com/cerpen-misteri/terulang-kembali-part-1.html",
     "author": "Flora Maleeka Afriyanto",
@@ -564,12 +570,6 @@
     "link_author": "http://cerpenmu.com/penulis/flora-maleeka-afriyanto"
   },
   {
-    "judul": "Tetangga Baru",
-    "link": "http://cerpenmu.com/cerpen-cinta/tetangga-baru.html",
-    "author": "Qurotta A'yuni",
-    "link_author": "http://cerpenmu.com/penulis/qurotta-ayuni"
-  },
-  {
     "judul": "Untuk Jogja Yang Tak sempat Kusapa",
     "link": "http://cerpenmu.com/cerpen-cinta/untuk-jogja-yang-tak-sempat-kusapa.html",
     "author": "Kellaa",
@@ -582,10 +582,10 @@
     "link_author": "http://cerpenmu.com/penulis/ahmed-adrianov"
   },
   {
-    "judul": "Whitory",
-    "link": "http://cerpenmu.com/cerpen-cinta-romantis/whitory.html",
-    "author": "Chelcy Airinda Putri",
-    "link_author": "http://cerpenmu.com/penulis/chelcy-airinda-putri"
+    "judul": "Windi Doyan Ciarvi",
+    "link": "http://cerpenmu.com/cerpen-cinta/windi-doyan-ciarvi.html",
+    "author": "Acha Hallatu",
+    "link_author": "http://cerpenmu.com/penulis/acha-hallatu"
   },
   {
     "judul": "You are Mine! (Part 1)",
