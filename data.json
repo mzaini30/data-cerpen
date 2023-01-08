@@ -12,12 +12,6 @@
     "link_author": "http://cerpenmu.com/penulis/era-elfriana-sitanggang"
   },
   {
-    "judul": "Anak Sholeh",
-    "link": "http://cerpenmu.com/cerpen-islami-religi/anak-sholeh.html",
-    "author": "Diaz Tavarel S",
-    "link_author": "http://cerpenmu.com/penulis/diaz-tavarel-s"
-  },
-  {
     "judul": "Anak Yang Rajin",
     "link": "http://cerpenmu.com/cerpen-anak/anak-yang-rajin.html",
     "author": "Friskha Divatul Nurhaidah",
@@ -144,18 +138,6 @@
     "link_author": "http://cerpenmu.com/penulis/meta-gladis-pramudita"
   },
   {
-    "judul": "Garis Yang Tergantung",
-    "link": "http://cerpenmu.com/cerpen-keluarga/garis-yang-tergantung.html",
-    "author": "Ahmad Zackafzal Haydar Ananta",
-    "link_author": "http://cerpenmu.com/penulis/ahmad-zackafzal-haydar-ananta"
-  },
-  {
-    "judul": "Gibran Andara",
-    "link": "http://cerpenmu.com/cerpen-sedih/gibran-andara.html",
-    "author": "Sherly Natasya",
-    "link_author": "http://cerpenmu.com/penulis/sherly-natasya"
-  },
-  {
     "judul": "Gila",
     "link": "http://cerpenmu.com/cerpen-kehidupan/gila-2.html",
     "author": "Lutfi Awaludin Basori",
@@ -210,6 +192,12 @@
     "link_author": "http://cerpenmu.com/penulis/ferdian-dimas"
   },
   {
+    "judul": "Jalan Terbaik",
+    "link": "http://cerpenmu.com/cerpen-islami-religi/jalan-terbaik-5.html",
+    "author": "Mochammad Fachry",
+    "link_author": "http://cerpenmu.com/penulis/mochammad-fachry"
+  },
+  {
     "judul": "Jatuh Cinta",
     "link": "http://cerpenmu.com/cerpen-cinta-pertama/jatuh-cinta-4.html",
     "author": "Adinda Scarfia Anisa",
@@ -226,6 +214,18 @@
     "link": "http://cerpenmu.com/cerpen-anak/kambing-kakek.html",
     "author": "Denys Abdillah F.",
     "link_author": "http://cerpenmu.com/penulis/denys-abdillah-f"
+  },
+  {
+    "judul": "Kamu dan Kenangan",
+    "link": "http://cerpenmu.com/cerpen-cinta-sedih/kamu-dan-kenangan.html",
+    "author": "Seli Oktavia",
+    "link_author": "http://cerpenmu.com/penulis/seli-oktavia"
+  },
+  {
+    "judul": "Kebahagiaan Yang Tertunda",
+    "link": "http://cerpenmu.com/cerpen-liburan/kebahagiaan-yang-tertunda-2.html",
+    "author": "Muhammad Dwi Aditya",
+    "link_author": "http://cerpenmu.com/penulis/muhammad-dwi-aditya"
   },
   {
     "judul": "Kehangatan Hujanku",
@@ -312,12 +312,6 @@
     "link_author": "http://cerpenmu.com/penulis/muhammad-faturrahman"
   },
   {
-    "judul": "Mencintai Orang Yang Sama",
-    "link": "http://cerpenmu.com/cerpen-patah-hati/mencintai-orang-yang-sama.html",
-    "author": "Anisa' Ul Khoiroh",
-    "link_author": "http://cerpenmu.com/penulis/anisa-ul-khoiroh"
-  },
-  {
     "judul": "Mendaki Gunung",
     "link": "http://cerpenmu.com/cerpen-liburan/mendaki-gunung.html",
     "author": "Alfarizky Rasya Hallabi",
@@ -346,6 +340,12 @@
     "link": "http://cerpenmu.com/cerpen-cinta/mimpi-aneh-part-2.html",
     "author": "Bernat",
     "link_author": "http://cerpenmu.com/penulis/bernat"
+  },
+  {
+    "judul": "Nawasena",
+    "link": "http://cerpenmu.com/cerpen-persahabatan/nawasena.html",
+    "author": "Amirah Dwi Aryanti",
+    "link_author": "http://cerpenmu.com/penulis/amirah-dwi-aryanti"
   },
   {
     "judul": "Nokiah Nesya Penangkap Hantu",
@@ -414,6 +414,18 @@
     "link_author": "http://cerpenmu.com/penulis/denayu-islam-unifilubnanova"
   },
   {
+    "judul": "Perempuan di Kereta (Part 1)",
+    "link": "http://cerpenmu.com/cerpen-romantis/perempuan-di-kereta-part-1.html",
+    "author": "Eleanor Rigby",
+    "link_author": "http://cerpenmu.com/penulis/eleanor-rigby"
+  },
+  {
+    "judul": "Perempuan di Kereta (Part 2)",
+    "link": "http://cerpenmu.com/cerpen-romantis/perempuan-di-kereta-part-2.html",
+    "author": "Eleanor Rigby",
+    "link_author": "http://cerpenmu.com/penulis/eleanor-rigby"
+  },
+  {
     "judul": "Perpisahan dan Pertemuan",
     "link": "http://cerpenmu.com/cerpen-cinta/perpisahan-dan-pertemuan.html",
     "author": "Putri Kirana Arlani",
@@ -426,22 +438,16 @@
     "link_author": "http://cerpenmu.com/penulis/fablaga-fadhil"
   },
   {
+    "judul": "Petualangan Di Laut Bareng Teman",
+    "link": "http://cerpenmu.com/cerpen-liburan/petualangan-di-laut-bareng-teman.html",
+    "author": "Deny Setiyawan",
+    "link_author": "http://cerpenmu.com/penulis/deny-setiyawan"
+  },
+  {
     "judul": "Ramadhan Bersama COVID-19",
     "link": "http://cerpenmu.com/cerpen-ramadhan/ramadhan-bersama-covid-19.html",
     "author": "Diaz Tavarel S",
     "link_author": "http://cerpenmu.com/penulis/diaz-tavarel-s"
-  },
-  {
-    "judul": "Rantai Proses (Part 1)",
-    "link": "http://cerpenmu.com/cerpen-fantasi-fiksi/rantai-proses-part-1.html",
-    "author": "Jeovan Arlyne Andikatama",
-    "link_author": "http://cerpenmu.com/penulis/jeovan-arlyne-andikatama"
-  },
-  {
-    "judul": "Rantai Proses (Part 2)",
-    "link": "http://cerpenmu.com/cerpen-fantasi-fiksi/rantai-proses-part-2.html",
-    "author": "Jeovan Arlyne Andikatama",
-    "link_author": "http://cerpenmu.com/penulis/jeovan-arlyne-andikatama"
   },
   {
     "judul": "Rumah Angker",
@@ -466,12 +472,6 @@
     "link": "http://cerpenmu.com/cerpen-persahabatan/sahabat-sejati-22.html",
     "author": "Hyxxu",
     "link_author": "http://cerpenmu.com/penulis/hyxxu"
-  },
-  {
-    "judul": "Sahabat Sholat Dhuha",
-    "link": "http://cerpenmu.com/cerpen-islami-religi/sahabat-sholat-dhuha.html",
-    "author": "Diaz Tavarel S",
-    "link_author": "http://cerpenmu.com/penulis/diaz-tavarel-s"
   },
   {
     "judul": "Sahara Bella",
@@ -582,10 +582,10 @@
     "link_author": "http://cerpenmu.com/penulis/acha-hallatu"
   },
   {
-    "judul": "You are Mine! (Part 1)",
-    "link": "http://cerpenmu.com/cerpen-cinta-romantis/you-are-mine-part-1.html",
-    "author": "Da Azure",
-    "link_author": "http://cerpenmu.com/penulis/da-azure"
+    "judul": "Yogyakarta",
+    "link": "http://cerpenmu.com/cerpen-liburan/yogyakarta.html",
+    "author": "Rinda Dwi Septianingsih",
+    "link_author": "http://cerpenmu.com/penulis/rinda-dwi-septianingsih"
   },
   {
     "judul": "Zeitmaschine For Love (Part 1)",
