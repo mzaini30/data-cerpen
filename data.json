@@ -72,6 +72,12 @@
     "link_author": "http://cerpenmu.com/penulis/putri-rania-r-n"
   },
   {
+    "judul": "Berjuta Rasa",
+    "link": "http://cerpenmu.com/cerpen-cinta/berjuta-rasa.html",
+    "author": "Yuliana Agustin",
+    "link_author": "http://cerpenmu.com/penulis/yuliana-agustin"
+  },
+  {
     "judul": "Berusaha Menjadi Lebih Baik",
     "link": "http://cerpenmu.com/cerpen-remaja/berusaha-menjadi-lebih-baik.html",
     "author": "Vernanda Juli Lavita Sari",
@@ -96,12 +102,6 @@
     "link_author": "http://cerpenmu.com/penulis/mohammad-erlangga-wigadarna-l"
   },
   {
-    "judul": "Bumi Perkemahan",
-    "link": "http://cerpenmu.com/cerpen-lucu-humor/bumi-perkemahan.html",
-    "author": "Denisa A.",
-    "link_author": "http://cerpenmu.com/penulis/denisa-a"
-  },
-  {
     "judul": "Cinta Ayah Mulai Pudar",
     "link": "http://cerpenmu.com/cerpen-keluarga/cinta-ayah-mulai-pudar.html",
     "author": "Laila Khoirotus S",
@@ -114,16 +114,16 @@
     "link_author": "http://cerpenmu.com/penulis/bilqis-09"
   },
   {
+    "judul": "Cintai Diri Sendiri",
+    "link": "http://cerpenmu.com/cerpen-remaja/cintai-diri-sendiri.html",
+    "author": "Najwa Putri Zafira",
+    "link_author": "http://cerpenmu.com/penulis/najwa-putri-zafira"
+  },
+  {
     "judul": "Crush",
     "link": "http://cerpenmu.com/cerpen-cinta/crush-3.html",
     "author": "Aurellia",
     "link_author": "http://cerpenmu.com/penulis/aurellia"
-  },
-  {
-    "judul": "Danau Terlarang",
-    "link": "http://cerpenmu.com/cerpen-horor-hantu/danau-terlarang.html",
-    "author": "Wahyu Hermawan",
-    "link_author": "http://cerpenmu.com/penulis/wahyu-hermawan"
   },
   {
     "judul": "Fav Human",
@@ -144,10 +144,10 @@
     "link_author": "http://cerpenmu.com/penulis/m-raditya-eka-s"
   },
   {
-    "judul": "Guruku",
-    "link": "http://cerpenmu.com/cerpen-pendidikan/guruku-2.html",
-    "author": "Khoirunnisa",
-    "link_author": "http://cerpenmu.com/penulis/khoirunnisa"
+    "judul": "Habis ini Lupa",
+    "link": "http://cerpenmu.com/cerpen-cinta-dalam-hati-terpendam/habis-ini-lupa.html",
+    "author": "Alyardta",
+    "link_author": "http://cerpenmu.com/penulis/alyardta"
   },
   {
     "judul": "Hantu Di Loteng Rumahku (Part 2)",
@@ -166,18 +166,6 @@
     "link": "http://cerpenmu.com/cerpen-sedih/hening-2.html",
     "author": "Gita Silvia Anandita",
     "link_author": "http://cerpenmu.com/penulis/gita-silvia-anandita"
-  },
-  {
-    "judul": "Hotel Angker",
-    "link": "http://cerpenmu.com/cerpen-horor-hantu/hotel-angker.html",
-    "author": "Laila Khoirotus S",
-    "link_author": "http://cerpenmu.com/penulis/laila-khoirotus-s"
-  },
-  {
-    "judul": "Hujan",
-    "link": "http://cerpenmu.com/cerpen-remaja/hujan-24.html",
-    "author": "Dian Setyo Budi",
-    "link_author": "http://cerpenmu.com/penulis/dian-setyo-budi"
   },
   {
     "judul": "Hujan dan Cinta",
@@ -228,12 +216,6 @@
     "link_author": "http://cerpenmu.com/penulis/tasya-kartika-sari"
   },
   {
-    "judul": "K Untuk K (Part 3)",
-    "link": "http://cerpenmu.com/cerpen-cinta/k-untuk-k-part-3.html",
-    "author": "Da Azure",
-    "link_author": "http://cerpenmu.com/penulis/da-azure"
-  },
-  {
     "judul": "Kaca Mata",
     "link": "http://cerpenmu.com/cerpen-kehidupan/kaca-mata.html",
     "author": "Suwarsono",
@@ -270,16 +252,22 @@
     "link_author": "http://cerpenmu.com/penulis/devi-muliya-sari"
   },
   {
-    "judul": "Kembalinya Ayah",
-    "link": "http://cerpenmu.com/cerpen-kehidupan/kembalinya-ayah.html",
-    "author": "Hannifia Dalia Azza Mahfira",
-    "link_author": "http://cerpenmu.com/penulis/hannifia-dalia-azza-mahfira"
+    "judul": "Kesempurnaan Sejati",
+    "link": "http://cerpenmu.com/cerpen-kehidupan/kesempurnaan-sejati.html",
+    "author": "Nur Hidayati Ilmi",
+    "link_author": "http://cerpenmu.com/penulis/nur-hidayati-ilmi"
   },
   {
-    "judul": "Kisah Cinta Pertama",
-    "link": "http://cerpenmu.com/cerpen-cinta/kisah-cinta-pertama.html",
-    "author": "Vicky Marvel",
-    "link_author": "http://cerpenmu.com/penulis/vicky-marvel"
+    "judul": "Kisah Anak Broken Home",
+    "link": "http://cerpenmu.com/cerpen-perjuangan/kisah-anak-broken-home.html",
+    "author": "Mailinda",
+    "link_author": "http://cerpenmu.com/penulis/mailinda"
+  },
+  {
+    "judul": "Kisah Kedai Blokosutho",
+    "link": "http://cerpenmu.com/cerpen-kehidupan/kisah-kedai-blokosutho.html",
+    "author": "Muhammad Zuber Zam Zami",
+    "link_author": "http://cerpenmu.com/penulis/muhammad-zuber-zam-zami"
   },
   {
     "judul": "Kisahku",
@@ -378,28 +366,22 @@
     "link_author": "http://cerpenmu.com/penulis/adhika-rizal-pratama"
   },
   {
-    "judul": "Penantian",
-    "link": "http://cerpenmu.com/cerpen-cinta/penantian-14.html",
-    "author": "Yosayvia Hany Suswanto",
-    "link_author": "http://cerpenmu.com/penulis/yosayvia-hany-suswanto"
-  },
-  {
-    "judul": "Penjahit Sukses",
-    "link": "http://cerpenmu.com/cerpen-kehidupan/penjahit-sukses.html",
-    "author": "Fajar",
-    "link_author": "http://cerpenmu.com/penulis/fajar"
-  },
-  {
-    "judul": "Penjual Pohon Pisang",
-    "link": "http://cerpenmu.com/cerpen-kehidupan/penjual-pohon-pisang.html",
-    "author": "Reynant Winanta AL. Kaysh",
-    "link_author": "http://cerpenmu.com/penulis/reynant-winanta-al-kaysh"
-  },
-  {
     "judul": "Penunggu Gunung Ungaran",
     "link": "http://cerpenmu.com/cerpen-horor-hantu/penunggu-gunung-ungaran.html",
     "author": "Putma Wanna D",
     "link_author": "http://cerpenmu.com/penulis/putma-wanna-d"
+  },
+  {
+    "judul": "Penyesalan Arjuna",
+    "link": "http://cerpenmu.com/cerpen-keluarga/penyesalan-arjuna.html",
+    "author": "Risdha Cahya Kirani",
+    "link_author": "http://cerpenmu.com/penulis/risdha-cahya-kirani"
+  },
+  {
+    "judul": "Perayaan Ekaristi",
+    "link": "http://cerpenmu.com/cerpen-kristen/perayaan-ekaristi.html",
+    "author": "Era Elfriana Sitanggang",
+    "link_author": "http://cerpenmu.com/penulis/era-elfriana-sitanggang"
   },
   {
     "judul": "Perbaiki Sholatmu Maka Allah Akan Memperbaiki Kehidupanmu",
@@ -438,6 +420,12 @@
     "link_author": "http://cerpenmu.com/penulis/gen-yus-harlino-a"
   },
   {
+    "judul": "Putri Pemulung",
+    "link": "http://cerpenmu.com/cerpen-kehidupan/putri-pemulung.html",
+    "author": "Putri Winda Afianty",
+    "link_author": "http://cerpenmu.com/penulis/putri-winda-afianty"
+  },
+  {
     "judul": "Rahasia Tuhan",
     "link": "http://cerpenmu.com/cerpen-motivasi/rahasia-tuhan.html",
     "author": "Febriana Putri Ameliya",
@@ -462,10 +450,22 @@
     "link_author": "http://cerpenmu.com/penulis/naina-annuru-mahabbah"
   },
   {
+    "judul": "Sebuah Buku",
+    "link": "http://cerpenmu.com/cerpen-fantasi-fiksi/sebuah-buku.html",
+    "author": "Erfahri Nur Ramadhan",
+    "link_author": "http://cerpenmu.com/penulis/erfahri-nur-ramadhan"
+  },
+  {
     "judul": "Secarik Kertas",
     "link": "http://cerpenmu.com/cerpen-horor-hantu/secarik-kertas-3.html",
     "author": "Novryda Tyas Audia",
     "link_author": "http://cerpenmu.com/penulis/novryda-tyas-audia"
+  },
+  {
+    "judul": "Selalu Bersyukur",
+    "link": "http://cerpenmu.com/cerpen-anak/selalu-bersyukur.html",
+    "author": "Shendhy Arya Wisnu",
+    "link_author": "http://cerpenmu.com/penulis/shendhy-arya-wisnu"
   },
   {
     "judul": "Sempurna",
@@ -504,12 +504,6 @@
     "link_author": "http://cerpenmu.com/penulis/syahala-fizky-alrhychard"
   },
   {
-    "judul": "Sepotong Ayam Goreng",
-    "link": "http://cerpenmu.com/cerpen-kehidupan/sepotong-ayam-goreng.html",
-    "author": "Wiwin Ernawati",
-    "link_author": "http://cerpenmu.com/penulis/wiwin-ernawati"
-  },
-  {
     "judul": "Setitik Rasa",
     "link": "http://cerpenmu.com/cerpen-cinta/setitik-rasa.html",
     "author": "Insyarah Septiani",
@@ -528,22 +522,22 @@
     "link_author": "http://cerpenmu.com/penulis/febriana-putri-ameliya"
   },
   {
-    "judul": "Sia Sia (Part 1)",
-    "link": "http://cerpenmu.com/cerpen-cinta-segitiga/sia-sia-part-1.html",
-    "author": "Khoirunnisa",
-    "link_author": "http://cerpenmu.com/penulis/khoirunnisa"
-  },
-  {
-    "judul": "Sia Sia (Part 2)",
-    "link": "http://cerpenmu.com/cerpen-cinta-segitiga/sia-sia-part-2.html",
-    "author": "Khoirunnisa",
-    "link_author": "http://cerpenmu.com/penulis/khoirunnisa"
+    "judul": "Sinar Arunika",
+    "link": "http://cerpenmu.com/cerpen-remaja/sinar-arunika.html",
+    "author": "Eka Putri Savira",
+    "link_author": "http://cerpenmu.com/penulis/eka-putri-savira"
   },
   {
     "judul": "Sisa Rasa",
     "link": "http://cerpenmu.com/cerpen-galau/sisa-rasa-2.html",
     "author": "Nadine Nikita",
     "link_author": "http://cerpenmu.com/penulis/nadine-nikita"
+  },
+  {
+    "judul": "Sombong",
+    "link": "http://cerpenmu.com/cerpen-anak/sombong.html",
+    "author": "Hardiaz Putra Bhaskara",
+    "link_author": "http://cerpenmu.com/penulis/hardiaz-putra-bhaskara"
   },
   {
     "judul": "Sorai",
@@ -592,6 +586,12 @@
     "link": "http://cerpenmu.com/cerpen-perjuangan/turnamen-kecil.html",
     "author": "Lia Nur Risqi",
     "link_author": "http://cerpenmu.com/penulis/lia-nur-risqi"
+  },
+  {
+    "judul": "Until You Realize",
+    "link": "http://cerpenmu.com/cerpen-cinta/until-you-realize.html",
+    "author": "Adelia Dyah Wicahyono",
+    "link_author": "http://cerpenmu.com/penulis/adelia-dyah-wicahyono"
   },
   {
     "judul": "Yogyakarta",
